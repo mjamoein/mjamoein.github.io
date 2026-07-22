@@ -25,7 +25,7 @@ author:
   avatar           : "Mohammad.png"
   name             : "Mohammada J.A. Moein"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+#   bio              : "Short biography for the left-hand sidebar"
   location         : "Germany"
   employer         : "Technical University of Darmstadt"
   uri              : # URL
