@@ -1,10 +1,11 @@
 ---
-title: "Fracture Network Geometry and Injection-Induced Seismic Hazard in Engineered Subsurface Reservoirs"
+title: "Understanding the Impact of Injection Duration on the Induced Seismic Hazard"
 collection: publications
-permalink: /publication/2026-frontiers
-excerpt: "Influence of fracture network geometry on induced seismic hazard."
-date: 2026-01-01
-venue: "Frontiers in Earth Science"
-paperurl: "https://doi.org/10.3389/feart.2026.1757691"
-citation: 'Moein, M.J.A., Reiter, K., & Henk, A. (2026). Fracture Network Geometry and Injection-Induced Seismic Hazard in Engineered Subsurface Reservoirs. <i>Frontiers in Earth Science</i>.'
+category: manuscripts
+permalink: /publication/2025-injection-duration
+excerpt: 'A study on injection duration and induced seismic hazard.'
+date: 2025-01-01
+venue: 'Geothermics'
+paperurl: ''
+citation: 'Afshari Moein, M.J. et al. (2025). Understanding the Impact of Injection Duration on the Induced Seismic Hazard. Geothermics.'
 ---
