@@ -3,7 +3,7 @@ title: "Understanding the impact of injection duration on the induced seismic ha
 collection: publications
 category: manuscripts
 permalink: /publication/2026-injection-duration-induced-seismic-hazard
-excerpt: "Investigation of how injection protocols and duration influence induced seismic hazard using theoretical models, numerical simulations, and field observations."
+excerpt: "Here, we address how injection protocols and duration influence induced seismic hazard using theoretical models, numerical simulations and field observations."
 date: 2026-01-01
 venue: "Geothermics"
 paperurl: "https://doi.org/10.1016/j.geothermics.2025.103509"
