@@ -3,9 +3,9 @@ title: "Understanding the Impact of Injection Duration on the Induced Seismic Ha
 collection: publications
 category: manuscripts
 permalink: /publication/2025-injection-duration
-excerpt: 'A study on injection duration and induced seismic hazard.'
+excerpt: 'This study evaluates the impact of various injection prtocols on the induced seismic hazarad during hydraulic stimulation experimenst.'
 date: 2025-01-01
 venue: 'Geothermics'
 paperurl: ''
-citation: 'Afshari Moein, M.J. et al. (2025). Understanding the Impact of Injection Duration on the Induced Seismic Hazard. Geothermics.'
+citation: 'Moein, MJA. et al. (2025). Understanding the Impact of Injection Duration on the Induced Seismic Hazard. Geothermics.'
 ---
