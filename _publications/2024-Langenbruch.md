@@ -1,4 +1,3 @@
-
 ---
 title: "Are Maximum Induced Earthquake Magnitudes Controlled by Pressure Diffusion?"
 collection: publications
