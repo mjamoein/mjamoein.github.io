@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Dr. sc. ETH in Earth Sciences, ETH Zurich, Switzerland, 2018
+* MSc. in Reservoir Geoscience and Engineering, IFP Energies nouvelles, France, 2012
+* BSc. in Petroleum Engineering, Amirkabir University of Technology, Iran, 2006
 
 Work experience
 ======
@@ -32,14 +32,6 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
