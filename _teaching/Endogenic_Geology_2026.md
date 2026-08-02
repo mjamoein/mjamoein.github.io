@@ -7,15 +7,3 @@ venue: "Co-instructor, Technical University of Darmstadt, Institute of Applied G
 date: 2026-04-01
 location: "Darmstadt, Germany"
 ---
-
-<!-- This is a description of a teaching experience. You can use markdown like any other post.
-
-#Heading 1
-======
-
-#Heading 2
-======
-
-#Heading 3
-====== -->
-
