@@ -5,7 +5,7 @@ type: "BSc Course"
 permalink: /teaching/Endogenic_Geology
 venue: "Technical University of Darmstadt, Institute of Applied Geosciences"
 date: 2026-04-01
-role: "Coinstructor"
+role: "Co-instructor"
 location: "Darmstadt, Germany"
 ---
 
