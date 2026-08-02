@@ -17,21 +17,16 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025-presente: Lecturer and DFG Principal Investigator, Technical University of Darmstadt, Germany
+  * COOLSTRESS project
+  * EnTrast project
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-2025: DFG Principal Investigator, Free University of Berlin, Germany
+  * DFG Project: High-resolution analysis of seismo-thermo-hydro-mechanical processes in fractured rocks during hydraulic stimulation: model development, validation and application
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2019-2021: Postdoctoral Researcher, Martin Luther University of Halle, Germany
+
+* 2018-2019: Postdoctoral Researcher, Technical University of Darmstadt, Germany
 
 Publications
 ======
@@ -39,18 +34,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
