@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2025-presente: Lecturer and DFG Principal Investigator, Technical University of Darmstadt, Germany
+* 2025-present: Lecturer and DFG Principal Investigator, Technical University of Darmstadt, Germany
   * COOLSTRESS project
   * EnTrast project
 
