@@ -11,7 +11,6 @@ collection: projects
 permalink: /projects/entrast/
 
 # Optional short description shown in project listings
-excerpt: "DFG-funded research on thermo-hydro-mechanical controls of induced seismicity."
 
 # Optional publication/creation date
 ---
