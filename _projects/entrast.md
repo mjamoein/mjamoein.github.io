@@ -14,7 +14,6 @@ permalink: /projects/entrast/
 excerpt: "DFG-funded research on thermo-hydro-mechanical controls of induced seismicity."
 
 # Optional publication/creation date
-date: 2026-01-01
 ---
 
 # EnTraST
