@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * 2025-present: Lecturer and DFG Principal Investigator, Technical University of Darmstadt, Germany
-  * COOLSTRESS project
+  * COOLSTRESS project: Cooling-Induced Stress Changes and Their Influence on Seismicity in Deep Hydrothermal Systems
   * EnTrast project: Enhanced Characterization of Fracture Network using Transdimensional Stress-based Tomography
 
 * 2021-2025: DFG Principal Investigator, Free University of Berlin, Germany
